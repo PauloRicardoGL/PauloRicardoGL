@@ -2,8 +2,6 @@
 
 - 🔭 Sou Dev aluno do curso Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando tudo do .NET.
-
-  ##
   
   const me = {
   name : 'Luzia Gabriela Abreu da Silva Santos',
@@ -18,8 +16,6 @@
   ]
  }
  console.log("This is Luzia and also Girludev ✨😍", me);
-
-##
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
